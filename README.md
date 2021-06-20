@@ -15,21 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="left"> <a href="https://www.instagram.com/iamjr15/">
-  <img align="left" alt="Jigyansu's Instagram" width="31px" src="https://img.icons8.com/fluent/240/000000/instagram-new.png" />
-</a>
-<a href="https://twitter.com/iamjr015">
-  <img align="left" alt="Jigyansu Rout | Twitter" width="31px" src="https://img.icons8.com/fluent/240/000000/twitter.png" />
-</a>
-<a href="https://www.linkedin.com/in/iamjr15/">
-  <img align="left" alt="Jigyansu's LinkedIN" width="31px" src="https://img.icons8.com/fluent/240/000000/linkedin.png" />
-</a>
-<a href="mailto:jigyanshu15@gmail.com">
-  <img align="left" alt="Jigyansu's e-mail" width="31px" src="https://img.icons8.com/fluent/48/000000/send-mass-email.png" />
-</a>
-<a href="https://iamjr15.netlify.app/">
-  <img align="left" alt="Jigyansu's Website" width="31px" src="https://img.icons8.com/fluent/240/000000/internet.png" />
-</a> </p>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamjr15&label=Profile%20views&color=0e75b6&style=flat" alt="iamjr15" /> </p>
 
@@ -39,9 +25,14 @@ Here are some ideas to get you started:
 
 Hi, I'm [Jigyansu Rout](https://iamjr15.netlify.app/), a 18 year old Computer Science Undergraduate, and a web and app developer, with a love for greatly designed products. I take great care in the experience, architecture, and code quality of the things I build, along with a deep obsession with elegant interfaces.
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/FoVzfcqCDSb7zCynOp/source.gif" width="500" height="320" />
+<img align="right" alt="data doesn't lie" src="https://media.giphy.com/media/FoVzfcqCDSb7zCynOp/source.gif" width="500" height="320" />
 
-## Let's connect !
+- 🔭 I’m currently working on <strong>ton of side projects and a startup maybe :P </strong>
+- 🌱 I’m currently learning <strong>Machine Learning and Blockchain stuff! </strong>
+- 💬 Talk to me about <strong>football, crypto/stocks, great design, new products and moonshot projects </strong>
+- 📫 How to reach me: <strong>drop me a text through any of the mediums below! </strong>
+
+## 🤝Let's connect !
 <a href="https://www.instagram.com/iamjr15/">
   <img align="left" alt="Jigyansu's Instagram" width="33px" src="https://img.icons8.com/fluent/240/000000/instagram-new.png" />
 </a>
