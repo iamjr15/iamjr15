@@ -27,7 +27,7 @@ Hi, I'm [Jigyansu Rout](https://iamjr15.netlify.app/), a 18 year old Computer Sc
 
 <img align="right" alt="data doesn't lie" src="https://media.giphy.com/media/FoVzfcqCDSb7zCynOp/source.gif" width="500" height="320" />
 
-- 🔭 I’m currently working on <strong>ton of side projects and a startup maybe :P </strong>
+- 🔭 I’m currently working on <strong>a ton of side projects and a startup maybe :P </strong>
 - 🌱 I’m currently learning <strong>Machine Learning and Blockchain stuff! </strong>
 - 💬 Talk to me about <strong>football, crypto/stocks, great design, new products and moonshot projects </strong>
 - 📫 How to reach me: <strong>drop me a text through any of the mediums below! </strong>
