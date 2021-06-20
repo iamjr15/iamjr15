@@ -35,6 +35,12 @@ Here are some ideas to get you started:
 
 ![](https://github.com/iamjr15/iamjr15/blob/main/header.png)
 
+<br />
+
+Hi, I'm [Jigyansu Rout](https://iamjr15.netlify.app/), a 18 year old Computer Science Undergraduate, and a web and app developer, with a love for greatly designed products. I take great care in the experience, architecture, and code quality of the things I build, along with a deep obsession with elegant interfaces.
+
+<img align="right" alt="GIF" src="https://media.giphy.com/media/FoVzfcqCDSb7zCynOp/source.gif" width="500" height="320" />
+
 ## Let's connect !
 <a href="https://www.instagram.com/iamjr15/">
   <img align="left" alt="Jigyansu's Instagram" width="33px" src="https://img.icons8.com/fluent/240/000000/instagram-new.png" />
