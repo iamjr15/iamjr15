@@ -60,7 +60,7 @@ Hi, I'm [Jigyansu Rout](https://iamjr15.netlify.app/), a 18 year old Computer Sc
 <details> 
   <summary>💻 Profile Stats</summary>
   <br/>
-    <a href="#"><img alt="Jigyansu's Github Stats" src="https://github-readme-stats.vercel.app/api?username=iamjr15&show_icons=true&locale=en&hide=issues&count_private=true&theme=tokyonight&include_all_commits=true&hide_border=true" height="192px" width="525px"/>
+    <a href="#"><img alt="Jigyansu's Github Stats" src="https://github-readme-stats.vercel.app/api?username=iamjr15&show_icons=true&locale=en&hide=issues&count_private=true&theme=tokyonight&include_all_commits=true&hide_border=true" height="192px"/>
   <a href="#"><img alt="Jigyansu's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamjr15&show_icons=true&locale=en&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" height="192px"/></a>
   <br/>
  
