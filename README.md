@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hello 01110111 01101111 01110010 01101100 01100100 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> !
+## Hello 01110111 01101111 01110010 01101100 01100100 👋 <!--<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif"> --> !
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamjr15&label=Profile%20views&color=0e75b6&style=flat" alt="iamjr15" /> </p>
 
@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 <br />
 
-Hi, I'm [Jigyansu Rout](https://iamjr15.netlify.app/), a 18 year old Computer Science Undergrad at Ashoka University, and a web and app developer, with a love for greatly designed products. I take great care in the experience, architecture, and code quality of the things I build, along with a deep obsession with elegant interfaces.
+Hi, I'm [Jigyansu Rout](https://iamjr15.netlify.app/), a 19 year old Computer Science Undergrad at Ashoka University, and a web and app developer, with a love for greatly designed products. I take great care in the experience, architecture, and code quality of the things I build, along with a deep obsession with elegant interfaces.
 
 <img align="right" alt="data doesn't lie" src="https://media.giphy.com/media/FoVzfcqCDSb7zCynOp/source.gif" width="500" height="320" />
 
