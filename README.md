@@ -33,19 +33,19 @@ Hi, I'm [Jigyansu Rout](https://iamjr15.netlify.app/), a web and app developer, 
 - 📫 How to reach me: <strong>if you have an idea or think we can collaborate on something, drop me a text through any of the mediums below! </strong>
 
 ## 🤝Let's connect !
-<a href="https://www.instagram.com/iamjr15/">
+<a href="#">
   <img align="left" alt="Jigyansu's Instagram" width="33px" src="https://img.icons8.com/fluent/240/000000/instagram-new.png" />
 </a>
 <a href="https://twitter.com/iamjr015">
   <img align="left" alt="Jigyansu Rout | Twitter" width="33px" src="https://img.icons8.com/fluent/240/000000/twitter.png" />
 </a>
-<a href="https://www.linkedin.com/in/iamjr15/">
+<a href="#">
   <img align="left" alt="Jigyansu's LinkedIN" width="33px" src="https://img.icons8.com/fluent/240/000000/linkedin.png" />
 </a>
 <a href="mailto:jigyanshu15@gmail.com">
   <img align="left" alt="Jigyansu's e-mail" width="33px" src="https://img.icons8.com/fluent/48/000000/send-mass-email.png" />
 </a>
-<a href="https://iamjr15.netlify.app/">
+<a href="#">
   <img align="left" alt="Jigyansu's Website" width="33px" src="https://img.icons8.com/fluent/240/000000/internet.png" />
 </a>
 <br><br>
