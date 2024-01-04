@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamjr15&label=Profile%20views&color=0e75b6&style=flat" alt="iamjr15" /> </p>
 
-![](https://github.com/iamjr15/iamjr15/blob/main/header.png)
+![header](https://github.com/iamjr15/iamjr15/assets/48449428/ed05ac30-aabe-4a49-a202-da401550a083)
 
 <br />
 
