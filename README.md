@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 <br />
 
-Hi, I'm [Jigyansu Rout](https://iamjr15.netlify.app/), a web and app developer, with a love for greatly designed products. I take great care in the experience, architecture, and code quality of the things I build, along with a deep obsession with elegant interfaces.
+Hi, I'm [Jigyansu Rout](), a web and app developer, with a love for greatly designed products. I take great care in the experience, architecture, and code quality of the things I build, along with a deep obsession with elegant interfaces.
 
 <img align="right" alt="data doesn't lie" src="https://media.giphy.com/media/FoVzfcqCDSb7zCynOp/source.gif" width="500" height="320" />
 
@@ -36,13 +36,13 @@ Hi, I'm [Jigyansu Rout](https://iamjr15.netlify.app/), a web and app developer, 
 <a href="#">
   <img align="left" alt="Jigyansu's Instagram" width="33px" src="https://img.icons8.com/fluent/240/000000/instagram-new.png" />
 </a>
-<a href="https://twitter.com/iamjr015">
+<a href="#">
   <img align="left" alt="Jigyansu Rout | Twitter" width="33px" src="https://img.icons8.com/fluent/240/000000/twitter.png" />
 </a>
 <a href="#">
   <img align="left" alt="Jigyansu's LinkedIN" width="33px" src="https://img.icons8.com/fluent/240/000000/linkedin.png" />
 </a>
-<a href="mailto:jigyanshu15@gmail.com">
+<a href="#">
   <img align="left" alt="Jigyansu's e-mail" width="33px" src="https://img.icons8.com/fluent/48/000000/send-mass-email.png" />
 </a>
 <a href="#">
