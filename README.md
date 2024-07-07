@@ -23,13 +23,13 @@ Here are some ideas to get you started:
 
 <br />
 
-Hi, I'm [Jigyansu Rout](), a web and app developer, with a love for greatly designed products. I take great care in the experience, architecture, and code quality of the things I build, along with a deep obsession with elegant interfaces.
+Hi, I'm [Jigyansu Rout](), a developer and data science enthusiast, with a love for greatly designed products. I take great care in the experience, architecture, and code quality of the things I build, along with a deep obsession with elegant interfaces.
 
 <img align="right" alt="data doesn't lie" src="https://media.giphy.com/media/FoVzfcqCDSb7zCynOp/source.gif" width="500" height="320" />
 
 - 🔭 I’m currently working on <strong>a ton of side projects and a startup maybe :P </strong>
-- 🌱 I’m currently learning <strong>Machine Learning, Data Science and Blockchain stuff! </strong>
-- 💬 Talk to me about <strong>football, crypto/stocks, great design, new products and moonshot projects </strong>
+- 🌱 I’m currently learning <strong>Machine Learning, Data Science and Quantitative Finance! </strong>
+- 💬 Talk to me about <strong>football, finance/stocks, great design, new products and moonshot projects </strong>
 - 📫 How to reach me: <strong>if you have an idea or think we can collaborate on something, drop me a text through any of the mediums below! </strong>
 
 ## 🤝Let's connect !
