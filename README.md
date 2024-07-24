@@ -33,9 +33,7 @@ Hi, I'm [Jigyansu Rout](), a developer and data science enthusiast, with a love 
 - 📫 How to reach me: <strong>if you have an idea or think we can collaborate on something, drop me a text through any of the mediums below! </strong>
 
 ## 🤝Let's connect !
-<a href="#">
-  <img align="left" alt="Jigyansu's Instagram" width="33px" src="https://img.icons8.com/fluent/240/000000/instagram-new.png" />
-</a>
+
 <a href="#">
   <img align="left" alt="Jigyansu Rout | Twitter" width="33px" src="https://img.icons8.com/fluent/240/000000/twitter.png" />
 </a>
