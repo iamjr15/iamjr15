@@ -65,10 +65,5 @@ Hi, I'm [Jigyansu Rout](), a developer and data science enthusiast, with a love 
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </details>
 
-<details> 
-  <summary>⚡ My Contribution Graph</summary>
-  <br/>
-  <a href="#"><img alt="Jigyansu's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=iamjr15&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
-  <!--https://github.com/ashutosh00710/github-readme-activity-graph-->
-</details>
+
 
