@@ -99,15 +99,22 @@ Hi, I'm [Jigyansu Rout](), a developer and data science enthusiast, with a love 
 
 <!--stats ref - https://github.com/anuraghazra/github-readme-stats -->
 ## 📊 GitHub Stats
-<!--[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=iamjr15&theme=algolia)](https://git.io/streak-stats) -->
-<p align="center"><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=iamjr15&theme=algolia" alt="iamjr15" /></p>
-<details> 
+
+<details>
   <summary>💻 Profile Stats</summary>
   <br/>
-  ![iamjr15's Streak](https://github-readme-streak-stats.herokuapp.com/?user=iamjr15&theme=vue-dark&hide_border=true)
-  <a href="#"><img alt="Jigyansu's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamjr15&show_icons=true&locale=en&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" height="192px"/></a>
-  <br/>
- 
+  <table>
+    <tr>
+      <td valign="top">
+        <img height="195px" src="https://nirzak-streak-stats.vercel.app/?user=iamjr15&theme=shadow_blue&hide_border=false" alt="iamjr15's Streak Stats" />
+      </td>
+      <td valign="top">
+        <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamjr15&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="iamjr15's Top Languages" />
+      </td>
+    </tr>
+  </table>
+</details>
+
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </details>
 
