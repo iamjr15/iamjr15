@@ -104,7 +104,7 @@ Hi, I'm [Jigyansu Rout](), a developer and data science enthusiast, with a love 
 <details> 
   <summary>💻 Profile Stats</summary>
   <br/>
-    <a href="#"><img alt="Jigyansu's Github Stats" src="https://github-readme-stats.vercel.app/api?username=iamjr15&show_icons=true&locale=en&hide=issues&count_private=true&theme=tokyonight&include_all_commits=true&hide_border=true" height="192px"/>
+  ![iamjr15's Streak](https://github-readme-streak-stats.herokuapp.com/?user=iamjr15&theme=vue-dark&hide_border=true)
   <a href="#"><img alt="Jigyansu's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamjr15&show_icons=true&locale=en&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" height="192px"/></a>
   <br/>
  
