@@ -32,21 +32,23 @@ Hi, I'm [Jigyansu Rout](), a developer and data science enthusiast, with a love 
 - 💬 Talk to me about <strong>football, finance/stocks, great design, new products and moonshot projects </strong>
 - 📫 How to reach me: <strong>if you have an idea or think we can collaborate on something, drop me a text through any of the mediums below! </strong>
 
-## 🤝Let's connect !
+## 🤝 Let's connect!
 
-<a href="#">
-  <img align="left" alt="Jigyansu Rout | Twitter" width="33px" src="https://img.icons8.com/fluent/240/000000/twitter.png" />
-</a>
-<a href="#">
-  <img align="left" alt="Jigyansu's LinkedIN" width="33px" src="https://img.icons8.com/fluent/240/000000/linkedin.png" />
-</a>
-<a href="#">
-  <img align="left" alt="Jigyansu's e-mail" width="33px" src="https://img.icons8.com/fluent/48/000000/send-mass-email.png" />
-</a>
-<a href="#">
-  <img align="left" alt="Jigyansu's Website" width="33px" src="https://img.icons8.com/fluent/240/000000/internet.png" />
-</a>
-<br><br>
+<p align="left">
+  <a href="https://twitter.com/iamjr015" target="_blank">
+    <img alt="Jigyansu's Twitter" width="33px" src="https://img.icons8.com/fluent/240/000000/twitter.png" />
+  </a>
+  <a href="https://www.linkedin.com/in/iamjr15/" target="_blank">
+    <img alt="Jigyansu's LinkedIn" width="33px" src="https://img.icons8.com/fluent/240/000000/linkedin.png" />
+  </a>
+  <a href="https://github.com/iamjr15" target="_blank">
+    <img alt="Jigyansu's GitHub" width="33px" src="https://img.icons8.com/fluent/240/000000/github.png" />
+  </a>
+  <a href="mailto:jigyanshu15@gmail.com">
+    <img alt="Jigyansu's E-mail" width="33px" src="https://img.icons8.com/fluent/48/000000/send-mass-email.png" />
+  </a>
+</p>
+<br/><br/>
 
 ## 🧰 Languages and Tools
 <p align="left">
