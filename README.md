@@ -23,15 +23,16 @@ Here are some ideas to get you started:
 
 <br />
 
-Hi, I'm [Jigyansu Rout](), a developer and data science enthusiast, with a love for greatly designed products. I take great care in the experience, architecture, and code quality of the things I build, along with a deep obsession with elegant interfaces.
+Hi, I'm [Jigyansu Rout](https://jigyansurout.com/), a **full-stack developer** and **open source contributor** passionate about AI-powered products and elegant user experiences. I take great care in the experience, architecture, and code quality of the things I build, with a deep obsession for creating impactful technology.
 
 <img align="right" alt="data doesn't lie" src="https://media.giphy.com/media/FoVzfcqCDSb7zCynOp/source.gif" width="500" height="320" />
 
-- 🔭 I’m currently working on <strong>a ton of side projects and a startup maybe :P </strong>
-- 🌱 I’m currently learning <strong>Machine Learning, Data Science and Quantitative Finance! </strong>
-- 💬 Talk to me about <strong>football, finance/stocks, great design, new products and moonshot projects </strong>
-- 📫 How to reach me: <strong>if you have an idea or think we can collaborate on something, drop me a text through any of the mediums below! </strong>
-
+- 🚀 I'm currently maintaining **[cheatcode](https://github.com/cheatcode-ai/cheatcode)**, an open source AI coding agent
+- 🔭 Recently **exited Nudgely AI** (conversational voice agents) and building new AI-powered tools
+- 🌱 I'm currently exploring **advanced LLM architectures**, **AI agent frameworks**, and **quantitative trading strategies**
+- 🏆 **11x National Hackathon Winner** | **Applied Data Institute Scholar** | **Ex-D.E. Shaw Group**
+- 💬 Talk to me about **AI coding agents, open source, fintech, football, great design, and moonshot ideas**
+- 📫 How to reach me: **Always open to collaborating on innovative projects - reach out through any of the channels below!**
 ## 🤝 Let's connect!
 
 <p align="left">
