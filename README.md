@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 <br />
 
-Hi, I'm [Jigyansu Rout](https://jigyansurout.com/), a **full-stack developer** and **open source contributor** passionate about AI-powered products and elegant user experiences. I take great care in the experience, architecture, and code quality of the things I build, with a deep obsession for creating impactful technology.
+Hi, I'm [Jigyansu Rout](https://jigyansurout.com/), an **ai engineer** and **open source contributor** passionate about AI, building with AI and elegant user experiences. I take great care in the experience, architecture, and code quality of the things I build, with a deep obsession for creating impactful technology.
 
 <img align="right" alt="data doesn't lie" src="https://media.giphy.com/media/FoVzfcqCDSb7zCynOp/source.gif" width="500" height="320" />
 
